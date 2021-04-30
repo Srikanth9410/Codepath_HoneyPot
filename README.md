@@ -13,7 +13,7 @@
 
 Dionaea effective at detecting and/or collecting data about an attack and attacker.
 
-![image](https://user-images.githubusercontent.com/36133052/116677909-c0c05f80-a976-11eb-86b3-7360730c994d.png)
+![image](https://user-images.githubusercontent.com/36133052/116678644-8c00d800-a977-11eb-9b12-5eab505196ab.png)
 
 MHN uses MongoDB as RDBMS and the exported JSON file contains the information related to the attacks against the honepot.
 
